@@ -15,7 +15,11 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Alt text](docs/android_movies_flutter.gif?raw=true "preview App Movies Cinema with flutter version android")
+
+Android            |  IOS
+:-------------------------:|:-------------------------:
+![Alt text](docs/android_movies_flutter.gif?raw=true "preview App Movies Cinema with flutter version android") |  ![Alt text](docs/ios_movies_flutter.gif?raw=true " preview App Movies Cinema with flutter version ios")
 
 
-![Alt text](docs/ios_movies_flutter.gif?raw=true " preview App Movies Cinema with flutter version ios")
+
+
